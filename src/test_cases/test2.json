@@ -1,0 +1,72 @@
+{
+  "faculties": ["FTur", "Eko", "Lex", "FCom", "ConFin", "Psico", "FLEx", "FHS", "MatCom", "ISDi", "Geo", "IFAl", "FBio", "FQ", "FAyL", "FF", "InSTec", "FENHI"],
+  "athletes": {
+    "FTur": 143,
+    "Eko": 178,
+    "Lex": 160,
+    "FCom": 160,
+    "ConFin": 122,
+    "Psico": 156,
+    "FLEx": 60,
+    "FHS": 85,
+    "MatCom": 122,
+    "ISDi": 73,
+    "Geo": 28,
+    "IFAl": 86,
+    "FBio": 84,
+    "FQ": 5,
+    "FAyL": 54,
+    "FF": 26,
+    "InSTec": 25,
+    "FENHI": 6
+  },
+  "fixed": {
+    "arbitros": 100,
+    "professors": 100,
+    "aaac": 30
+  },
+  "ranking": {
+    "FTur": 1,
+    "Eko": 2,
+    "Lex": 3,
+    "FCom": 4,
+    "ConFin": 5,
+    "Psico": 6,
+    "FLEx": 7,
+    "FHS": 8,
+    "MatCom": 9,
+    "ISDi": 10,
+    "Geo": 11,
+    "IFAl": 12,
+    "FBio": 13,
+    "FQ": 14,
+    "FAyL": 15,
+    "FF": 16,
+    "InSTec": 17,
+    "FENHI": 18
+  },
+  "available_pullovers": {
+    "AO": 464,
+    "AC": 436,
+    "G": 300
+  },
+  "preferences": {
+    "FTur": ["AC"],
+    "Eko": ["G"],
+    "Lex": ["AO"],
+    "FCom": ["AO"],
+    "ConFin": ["G"],
+    "Psico": ["G"],
+    "FLEx": ["AO"],
+    "FHS": ["G"],
+    "MatCom": ["AC"],
+    "ISDi": ["G"],
+    "Geo": ["AO"],
+    "IFAl": ["G"],
+    "FBio": ["AO"],
+    "FQ": ["AO"],
+    "FAyL": ["AC"],
+    "FF": ["G"],
+    "InSTec": ["AO"]
+  }
+}
